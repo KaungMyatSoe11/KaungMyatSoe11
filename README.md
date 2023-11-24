@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Kaung Myat Soe</h1>
 <h3 align="center">Web Developer</h3>
 
